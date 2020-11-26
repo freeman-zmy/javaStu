@@ -4,7 +4,9 @@
     用Java实现的Hot Java浏览器（支持Java applet）显示了Java的魅力：跨平台、动态的Web、Internet计算。
     从此，Java被广泛接受并推动了Web的迅速发展，常用的浏览器均支持Java applet。
 ## 目录
+<!-- TOC -->
 -[版本平台](### 版本平台）
+<!-- TOC -->
 ### 版本平台
 ### 分类
 ### 详细介绍
